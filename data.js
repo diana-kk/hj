@@ -730,103 +730,103 @@
 // },
 {
   "hanja": "頁",
-  "jei_set": "급08",
+  "jei_set": "라01",
   "mean": "머리 혈"
 }, {
   "hanja": "禾",
-  "jei_set": "급08",
+  "jei_set": "라01",
   "mean": "벼 화"
 },  {
   "hanja": "示",
-  "jei_set": "급08",
+  "jei_set": "라01",
   "mean": "보일 시"
 },  {
   "hanja": "弓",
-  "jei_set": "급08",
+  "jei_set": "라01",
   "mean": "활 궁"
 },  {
   "hanja": "貝",
-  "jei_set": "급08",
+  "jei_set": "라01",
   "mean": "조개 패"
 },  {
   "hanja": "未",
-  "jei_set": "급08",
+  "jei_set": "라02",
   "mean": "아닐 미"
 },  {
   "hanja": "束",
-  "jei_set": "급08",
+  "jei_set": "라02",
   "mean": "묶을 속"
 }, {
   "hanja": "村",
-  "jei_set": "급08",
+  "jei_set": "라02",
   "mean": "마을 촌"
 }, {
   "hanja": "業",
-  "jei_set": "급08",
+  "jei_set": "라02",
   "mean": "일 업"
 }, {
   "hanja": "校",
-  "jei_set": "급08",
+  "jei_set": "라02",
   "mean": "학교 교"
 }, {
   "hanja": "仁",
-  "jei_set": "급08",
+  "jei_set": "라03",
   "mean": "어질 인"
 }, {
   "hanja": "仙",
-  "jei_set": "급08",
+  "jei_set": "라03",
   "mean": "신선 선"
 }, {
   "hanja": "信",
-  "jei_set": "급08",
+  "jei_set": "라03",
   "mean": "믿을 신"
 }, {
   "hanja": "伐",
-  "jei_set": "급08",
+  "jei_set": "라03",
   "mean": "칠 벌"
 }, {
   "hanja": "住",
-  "jei_set": "급08",
+  "jei_set": "라03",
   "mean": "머무를 주"
 }, {
   "hanja": "否",
-  "jei_set": "급08",
+  "jei_set": "라04",
   "mean": "아닐 부"
 }, {
   "hanja": "君",
-  "jei_set": "급08",
+  "jei_set": "라04",
   "mean": "임금 군"
 }, {
   "hanja": "句",
-  "jei_set": "급08",
+  "jei_set": "라04",
   "mean": "글귀 구"
 }, {
   "hanja": "同",
-  "jei_set": "급08",
+  "jei_set": "라04",
   "mean": "한가지 동"
 }, {
   "hanja": "器",
-  "jei_set": "급08",
+  "jei_set": "라04",
   "mean": "그릇 기"
 }, {
   "hanja": "共",
-  "jei_set": "급08",
+  "jei_set": "라05",
   "mean": "함께 공"
 }, {
   "hanja": "兵",
-  "jei_set": "급08",
+  "jei_set": "라05",
   "mean": "병사 병"
 }, {
   "hanja": "具",
-  "jei_set": "급08",
+  "jei_set": "라05",
   "mean": "갖출 구"
 }, {
   "hanja": "兼",
-  "jei_set": "급08",
+  "jei_set": "라05",
   "mean": "겸할 겸"
 }, {
   "hanja": "公",
-  "jei_set": "급08",
+  "jei_set": "라05",
   "mean": "공정할 공"
 },
 // {
