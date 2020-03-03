@@ -150,7 +150,7 @@ var Library = {
       'fill': '#b4b4dc',
       'mask': maskBar
     });
-    paper.image('../img/clock.png', 32, 578, 17, 17);
+    paper.image('clock.png', 32, 578, 17, 17);
 
     return choices;
   },
