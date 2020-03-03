@@ -509,4 +509,106 @@
   "mean": "어두울 암"
 },
 
+{
+  "hanja": "病",
+  "jei_set": "라26",
+  "mean": "병 병"
+}, {
+  "hanja": "始",
+  "jei_set": "라26",
+  "mean": "처음 시"
+},  {
+  "hanja": "每",
+  "jei_set": "라26",
+  "mean": "매양 매"
+},  {
+  "hanja": "學",
+  "jei_set": "라26",
+  "mean": "배울 학"
+},  {
+  "hanja": "層",
+  "jei_set": "라26",
+  "mean": "층 층"
+},  {
+  "hanja": "江",
+  "jei_set": "라27",
+  "mean": "강 강"
+},  {
+  "hanja": "沙",
+  "jei_set": "라27",
+  "mean": "모래 사"
+}, {
+  "hanja": "酒",
+  "jei_set": "라27",
+  "mean": "술 주"
+}, {
+  "hanja": "冷",
+  "jei_set": "라27",
+  "mean": "찰 랭"
+}, {
+  "hanja": "氷",
+  "jei_set": "라27",
+  "mean": "얼음 빙"
+}, {
+  "hanja": "回",
+  "jei_set": "라28",
+  "mean": "돌 회"
+}, {
+  "hanja": "因",
+  "jei_set": "라28",
+  "mean": "인한 일"
+}, {
+  "hanja": "國",
+  "jei_set": "라28",
+  "mean": "나라 국"
+}, {
+  "hanja": "園",
+  "jei_set": "라28",
+  "mean": "동산 원"
+}, {
+  "hanja": "圓",
+  "jei_set": "라28",
+  "mean": "둥글 원"
+}, {
+  "hanja": "充",
+  "jei_set": "라29",
+  "mean": "찰 충"
+}, {
+  "hanja": "者",
+  "jei_set": "라29",
+  "mean": "놈 자"
+}, {
+  "hanja": "要",
+  "jei_set": "라29",
+  "mean": "중요할 요"
+}, {
+  "hanja": "重",
+  "jei_set": "라29",
+  "mean": "무거울 중"
+}, {
+  "hanja": "幸",
+  "jei_set": "라29",
+  "mean": "다행 행"
+}, {
+  "hanja": "第",
+  "jei_set": "라30",
+  "mean": "차례 제"
+}, {
+  "hanja": "答",
+  "jei_set": "라30",
+  "mean": "대답할 답"
+}, {
+  "hanja": "等",
+  "jei_set": "라30",
+  "mean": "무리 등"
+}, {
+  "hanja": "笑",
+  "jei_set": "라30",
+  "mean": "웃을 소"
+}, {
+  "hanja": "算",
+  "jei_set": "라30",
+  "mean": "셈할 산"
+},
+
 ];
