@@ -13,18 +13,18 @@ Paper.rect(0, 0, 360, 640, 6).attr({
   'fill': 'none'
 });
 
-Paper.text(90, 180, '참 잘했어요!').attr({
-  'font-size': 40
+Paper.text(35, 160, '이번 주 학습을 마칩니다!').attr({
+  'font-size': 30
 });
 
-fireworks.use().transform('t20, 200').appendTo(Paper);
+fireworks.use().transform('t20, 180').appendTo(Paper);
 
 var orangeB = Paper.rect(120, 410, 120, 30).attr({
   'fill': '#fe9b00',
   'rx': 8,
   'ry': 8
 });
-var orangeBT = Paper.text(160, 430, '처음으로').attr({
+var orangeBT = Paper.text(157, 430, '처음으로').attr({
   'fill': 'white',
   'font-size': 13
 });
