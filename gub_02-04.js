@@ -349,6 +349,6 @@ setTimeout(function() {
     }
 
     function handler02() {
-        location.replace('02_la_game.html');
+        location.replace('02_la_game01.html');
     }
 }, 19500);
