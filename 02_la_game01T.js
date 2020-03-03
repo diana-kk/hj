@@ -5,8 +5,8 @@ var HT004 = {
     repeatCount: 25,
     genInfo: {},
     condition: {
-        grade: '급',
-        setRange: 08
+        grade: '라',
+        setRange: 05
     },
     startTime: new Date().getTime(),
     configure: function() {
@@ -81,7 +81,7 @@ var HT004 = {
             'font-wieght': 'bold',
             'text-anchor': 'middle'
         });
-        reportG.image('../img/report02.png', 110, 220, 140, 160);
+        reportG.image('report02.png', 110, 220, 140, 160);
 
         var redB = reportG.rect(36, 410, 120, 30).attr({
           'fill': '#f8371f',
@@ -113,7 +113,7 @@ var HT004 = {
         }
 
         function handler02() {
-          location.replace('gub_01.html');
+          location.replace('end.html');
         }
     },
 

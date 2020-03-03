@@ -44,7 +44,7 @@ var Library = {
     var condition = params.condition;
     var count = params.choiceCount;
     var pairInfo = {};
-    var conData = data.slice();
+    var conData = data.slice(0, 25);
     var paper = Paper.g();
 
     conData = conData.filter(function(el) {
