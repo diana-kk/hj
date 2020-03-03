@@ -611,4 +611,106 @@
   "mean": "셈할 산"
 },
 
+{
+  "hanja": "歌",
+  "jei_set": "라31",
+  "mean": "노래 가"
+}, {
+  "hanja": "頭",
+  "jei_set": "라31",
+  "mean": "머리 두"
+},  {
+  "hanja": "相",
+  "jei_set": "라31",
+  "mean": "서로 상"
+},  {
+  "hanja": "省",
+  "jei_set": "라31",
+  "mean": "살필 성"
+},  {
+  "hanja": "聲",
+  "jei_set": "라31",
+  "mean": "소리 성"
+},  {
+  "hanja": "法",
+  "jei_set": "라32",
+  "mean": "법 법"
+},  {
+  "hanja": "活",
+  "jei_set": "라32",
+  "mean": "살 활"
+}, {
+  "hanja": "淸",
+  "jei_set": "라32",
+  "mean": "맑을 청"
+}, {
+  "hanja": "海",
+  "jei_set": "라32",
+  "mean": "바다 해"
+}, {
+  "hanja": "之",
+  "jei_set": "라32",
+  "mean": "갈 지"
+}, {
+  "hanja": "位",
+  "jei_set": "라33",
+  "mean": "자리 위"
+}, {
+  "hanja": "健",
+  "jei_set": "라33",
+  "mean": "굳셀 건"
+}, {
+  "hanja": "便",
+  "jei_set": "라33",
+  "mean": "편할 편"
+}, {
+  "hanja": "傷",
+  "jei_set": "라33",
+  "mean": "상할 상"
+}, {
+  "hanja": "價",
+  "jei_set": "라33",
+  "mean": "값 가"
+}, {
+  "hanja": "窓",
+  "jei_set": "라34",
+  "mean": "창 창"
+}, {
+  "hanja": "度",
+  "jei_set": "라34",
+  "mean": "법도 도"
+}, {
+  "hanja": "關",
+  "jei_set": "라34",
+  "mean": "빗장 관"
+}, {
+  "hanja": "所",
+  "jei_set": "라34",
+  "mean": "곳 소"
+}, {
+  "hanja": "房",
+  "jei_set": "라34",
+  "mean": "방 방"
+}, {
+  "hanja": "布",
+  "jei_set": "라35",
+  "mean": "베 포"
+}, {
+  "hanja": "常",
+  "jei_set": "라35",
+  "mean": "항상 상"
+}, {
+  "hanja": "族",
+  "jei_set": "라35",
+  "mean": "겨레 족"
+}, {
+  "hanja": "旅",
+  "jei_set": "라35",
+  "mean": "나그네 려"
+}, {
+  "hanja": "旗",
+  "jei_set": "라35",
+  "mean": "기 기"
+},
+
 ];
