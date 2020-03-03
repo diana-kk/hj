@@ -29,7 +29,7 @@ var Library = {
       });
     }
 
-    topBox.text(285, 27, '라11~15').attr({
+    topBox.text(283, 27, '라16~20').attr({
         'font-size': 18
     });
 
