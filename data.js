@@ -305,4 +305,106 @@
   "mean": "셀 수"
 },
 
+{
+  "hanja": "近",
+  "jei_set": "라16",
+  "mean": "가까울 근"
+}, {
+  "hanja": "過",
+  "jei_set": "라16",
+  "mean": "지날 과"
+},  {
+  "hanja": "道",
+  "jei_set": "라16",
+  "mean": "길 도"
+},  {
+  "hanja": "運",
+  "jei_set": "라16",
+  "mean": "움직일 운"
+},  {
+  "hanja": "遠",
+  "jei_set": "라16",
+  "mean": "멀 원"
+},  {
+  "hanja": "兒",
+  "jei_set": "라17",
+  "mean": "아이 아"
+},  {
+  "hanja": "元",
+  "jei_set": "라17",
+  "mean": "으뜸 원"
+}, {
+  "hanja": "親",
+  "jei_set": "라17",
+  "mean": "친할 친"
+}, {
+  "hanja": "觀",
+  "jei_set": "라17",
+  "mean": "볼 관"
+}, {
+  "hanja": "視",
+  "jei_set": "라17",
+  "mean": "볼 시"
+}, {
+  "hanja": "客",
+  "jei_set": "라18",
+  "mean": "손 객"
+}, {
+  "hanja": "害",
+  "jei_set": "라18",
+  "mean": "해칠 해"
+}, {
+  "hanja": "富",
+  "jei_set": "라18",
+  "mean": "부자 부"
+}, {
+  "hanja": "寶",
+  "jei_set": "라18",
+  "mean": "보배 보"
+}, {
+  "hanja": "宅",
+  "jei_set": "라18",
+  "mean": "집 택"
+}, {
+  "hanja": "約",
+  "jei_set": "라19",
+  "mean": "약속할 약"
+}, {
+  "hanja": "紙",
+  "jei_set": "라19",
+  "mean": "종이 지"
+}, {
+  "hanja": "組",
+  "jei_set": "라19",
+  "mean": "짤 조"
+}, {
+  "hanja": "結",
+  "jei_set": "라19",
+  "mean": "맺을 결"
+}, {
+  "hanja": "線",
+  "jei_set": "라19",
+  "mean": "줄 선"
+}, {
+  "hanja": "引",
+  "jei_set": "라20",
+  "mean": "끌 인"
+}, {
+  "hanja": "弱",
+  "jei_set": "라20",
+  "mean": "약할 약"
+}, {
+  "hanja": "强",
+  "jei_set": "라20",
+  "mean": "굳셀 강"
+}, {
+  "hanja": "張",
+  "jei_set": "라20",
+  "mean": "베풀 장"
+}, {
+  "hanja": "弟",
+  "jei_set": "라20",
+  "mean": "아우 제"
+},
+
 ];
