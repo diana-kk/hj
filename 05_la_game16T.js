@@ -1,5 +1,5 @@
 // Game2
-var HT004 = {
+var HT016 = {
     paper: Paper.g(),
     count: 0,
     repeatCount: 25,
@@ -10,7 +10,7 @@ var HT004 = {
     },
     startTime: new Date().getTime(),
     configure: function() {
-        var self = HT004;
+        var self = HT016;
 
         self.genInfo = Library.generateMatchgame({
             condition: self.condition,
@@ -20,7 +20,7 @@ var HT004 = {
     },
 
     makeQuestion: function() {
-        var self = HT004;
+        var self = HT016;
         var mean = self.genInfo.meanData[self.count].mean;
 
         // 문제 그리기
@@ -31,7 +31,7 @@ var HT004 = {
     },
 
     makeChoice: function() {
-        var self = HT004;
+        var self = HT016;
 
         var exampleInfo = self.genInfo.choiceData;
 
@@ -50,7 +50,7 @@ var HT004 = {
     },
 
     control: function() {
-        var self = HT004;
+        var self = HT016;
 
         var answer = self.genInfo.meanData[self.count].answer;
         self.genInfo.choiceData[answer].removed = true;
@@ -67,7 +67,7 @@ var HT004 = {
     },
 
     report: function() {
-        var self = HT004;
+        var self = HT016;
         self.paper.clear();
 
         var userTime = new Date().getTime() - self.startTime;
@@ -118,11 +118,11 @@ var HT004 = {
     },
 
     start: function() {
-        var self = HT004;
+        var self = HT016;
         self.configure();
         self.makeQuestion();
         self.makeChoice();
     },
 };
 
-HT004.start();
+HT016.start();
