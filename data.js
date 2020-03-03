@@ -407,4 +407,106 @@
   "mean": "아우 제"
 },
 
+{
+  "hanja": "由",
+  "jei_set": "라21",
+  "mean": "말미암을 유"
+}, {
+  "hanja": "界",
+  "jei_set": "라21",
+  "mean": "지경 계"
+},  {
+  "hanja": "異",
+  "jei_set": "라21",
+  "mean": "다를 이"
+},  {
+  "hanja": "當",
+  "jei_set": "라21",
+  "mean": "마땅할 당"
+},  {
+  "hanja": "番",
+  "jei_set": "라21",
+  "mean": "차례 번"
+},  {
+  "hanja": "社",
+  "jei_set": "라22",
+  "mean": "모일 사"
+},  {
+  "hanja": "祖",
+  "jei_set": "라22",
+  "mean": "할아비 조"
+}, {
+  "hanja": "神",
+  "jei_set": "라22",
+  "mean": "귀신 신"
+}, {
+  "hanja": "祝",
+  "jei_set": "라22",
+  "mean": "빌 축"
+}, {
+  "hanja": "福",
+  "jei_set": "라22",
+  "mean": "복 복"
+}, {
+  "hanja": "前",
+  "jei_set": "라23",
+  "mean": "앞 전"
+}, {
+  "hanja": "判",
+  "jei_set": "라23",
+  "mean": "판단할 판"
+}, {
+  "hanja": "利",
+  "jei_set": "라23",
+  "mean": "이로울 리"
+}, {
+  "hanja": "列",
+  "jei_set": "라23",
+  "mean": "벌일 렬"
+}, {
+  "hanja": "別",
+  "jei_set": "라23",
+  "mean": "다를 별"
+}, {
+  "hanja": "完",
+  "jei_set": "라24",
+  "mean": "완전할 완"
+}, {
+  "hanja": "官",
+  "jei_set": "라24",
+  "mean": "벼슬 관"
+}, {
+  "hanja": "容",
+  "jei_set": "라24",
+  "mean": "얼굴 용"
+}, {
+  "hanja": "宮",
+  "jei_set": "라24",
+  "mean": "집 궁"
+}, {
+  "hanja": "定",
+  "jei_set": "라24",
+  "mean": "정할 정"
+}, {
+  "hanja": "時",
+  "jei_set": "라25",
+  "mean": "때 시"
+}, {
+  "hanja": "曜",
+  "jei_set": "라25",
+  "mean": "빛날 요"
+}, {
+  "hanja": "景",
+  "jei_set": "라25",
+  "mean": "경치 경"
+}, {
+  "hanja": "晴",
+  "jei_set": "라25",
+  "mean": "갤 청"
+}, {
+  "hanja": "暗",
+  "jei_set": "라25",
+  "mean": "어두울 암"
+},
+
 ];
