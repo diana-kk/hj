@@ -713,4 +713,106 @@
   "mean": "기 기"
 },
 
+{
+  "hanja": "知",
+  "jei_set": "라36",
+  "mean": "알 지"
+}, {
+  "hanja": "短",
+  "jei_set": "라36",
+  "mean": "짧을 단"
+},  {
+  "hanja": "成",
+  "jei_set": "라36",
+  "mean": "이룰 성"
+},  {
+  "hanja": "新",
+  "jei_set": "라36",
+  "mean": "새 신"
+},  {
+  "hanja": "武",
+  "jei_set": "라36",
+  "mean": "군인 무"
+},  {
+  "hanja": "加",
+  "jei_set": "라37",
+  "mean": "더할 가"
+},  {
+  "hanja": "功",
+  "jei_set": "라37",
+  "mean": "공 공"
+}, {
+  "hanja": "動",
+  "jei_set": "라37",
+  "mean": "움직일 동"
+}, {
+  "hanja": "助",
+  "jei_set": "라37",
+  "mean": "도울 조"
+}, {
+  "hanja": "勇",
+  "jei_set": "라37",
+  "mean": "날랠 용"
+}, {
+  "hanja": "式",
+  "jei_set": "라38",
+  "mean": "법 식"
+}, {
+  "hanja": "農",
+  "jei_set": "라38",
+  "mean": "농사 농"
+}, {
+  "hanja": "民",
+  "jei_set": "라38",
+  "mean": "백성 민"
+}, {
+  "hanja": "必",
+  "jei_set": "라38",
+  "mean": "반드시 필"
+}, {
+  "hanja": "針",
+  "jei_set": "라38",
+  "mean": "바늘 침"
+}, {
+  "hanja": "計",
+  "jei_set": "라39",
+  "mean": "셈할 계"
+}, {
+  "hanja": "記",
+  "jei_set": "라39",
+  "mean": "기록할 기"
+}, {
+  "hanja": "詩",
+  "jei_set": "라39",
+  "mean": "시 시"
+}, {
+  "hanja": "話",
+  "jei_set": "라39",
+  "mean": "말할 화"
+}, {
+  "hanja": "課",
+  "jei_set": "라39",
+  "mean": "부과할 과"
+}, {
+  "hanja": "街",
+  "jei_set": "라40",
+  "mean": "거리 가"
+}, {
+  "hanja": "後",
+  "jei_set": "라40",
+  "mean": "뒤 후"
+}, {
+  "hanja": "地",
+  "jei_set": "라40",
+  "mean": "땅 지"
+}, {
+  "hanja": "坐",
+  "jei_set": "라40",
+  "mean": "앉을 좌"
+}, {
+  "hanja": "役",
+  "jei_set": "라40",
+  "mean": "부릴 역"
+},
+
 ];
