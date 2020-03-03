@@ -623,7 +623,7 @@ function handler29() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '공변될 공').attr({
+  group.text(180, 350, '공정할 공').attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
