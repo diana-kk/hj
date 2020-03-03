@@ -345,10 +345,10 @@ setTimeout(function() {
     });
 
     function handler01() {
-        location.replace('gub_01.html');
+        location.replace('01_la_check.html');
     }
 
     function handler02() {
-        location.replace('gub_03.html');
+        location.replace('02_la_game.html');
     }
 }, 19500);
