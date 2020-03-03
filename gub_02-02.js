@@ -6,7 +6,7 @@ var Paper = SVG.g();
 
 //이미지
 
-var oji = Paper.image('../img/oji.png', 0, 0, 130, 150).toDefs();
+var oji = Paper.image('oji.png', 0, 0, 130, 150).toDefs();
 
 // SVG 외곽선
 Paper.rect(0, 0, 360, 640, 6).attr({
