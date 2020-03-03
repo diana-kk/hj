@@ -333,7 +333,7 @@ function handler12() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '마디 촌').attr({
+  group.text(180, 350, '마을 촌').attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
