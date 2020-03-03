@@ -203,4 +203,106 @@
   "mean": "가벼울 경"
 },
 
+{
+  "hanja": "和",
+  "jei_set": "라11",
+  "mean": "화목할 화"
+}, {
+  "hanja": "命",
+  "jei_set": "라11",
+  "mean": "목숨 명"
+},  {
+  "hanja": "味",
+  "jei_set": "라11",
+  "mean": "맛 미"
+},  {
+  "hanja": "周",
+  "jei_set": "라11",
+  "mean": "두루 주"
+},  {
+  "hanja": "各",
+  "jei_set": "라11",
+  "mean": "각각 각"
+},  {
+  "hanja": "志",
+  "jei_set": "라12",
+  "mean": "뜻 지"
+},  {
+  "hanja": "忠",
+  "jei_set": "라12",
+  "mean": "충성 충"
+}, {
+  "hanja": "患",
+  "jei_set": "라12",
+  "mean": "근심 환"
+}, {
+  "hanja": "感",
+  "jei_set": "라12",
+  "mean": "느낄 감"
+}, {
+  "hanja": "惡",
+  "jei_set": "라12",
+  "mean": "나쁠 악"
+}, {
+  "hanja": "擧",
+  "jei_set": "라13",
+  "mean": "들 거"
+}, {
+  "hanja": "打",
+  "jei_set": "라13",
+  "mean": "칠 타"
+}, {
+  "hanja": "折",
+  "jei_set": "라13",
+  "mean": "꺾을 절"
+}, {
+  "hanja": "扶",
+  "jei_set": "라13",
+  "mean": "도울 부"
+}, {
+  "hanja": "接",
+  "jei_set": "라13",
+  "mean": "접할 접"
+}, {
+  "hanja": "路",
+  "jei_set": "라14",
+  "mean": "길 로"
+}, {
+  "hanja": "登",
+  "jei_set": "라14",
+  "mean": "오를 등"
+}, {
+  "hanja": "發",
+  "jei_set": "라14",
+  "mean": "쏠 발"
+}, {
+  "hanja": "建",
+  "jei_set": "라14",
+  "mean": "세울 건"
+}, {
+  "hanja": "起",
+  "jei_set": "라14",
+  "mean": "일어날 기"
+}, {
+  "hanja": "改",
+  "jei_set": "라15",
+  "mean": "고칠 개"
+}, {
+  "hanja": "放",
+  "jei_set": "라15",
+  "mean": "놓을 방"
+}, {
+  "hanja": "政",
+  "jei_set": "라15",
+  "mean": "정사 정"
+}, {
+  "hanja": "敎",
+  "jei_set": "라15",
+  "mean": "가르칠 교"
+}, {
+  "hanja": "數",
+  "jei_set": "라15",
+  "mean": "셀 수"
+},
+
 ];
