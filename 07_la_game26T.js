@@ -113,7 +113,7 @@ var HT026 = {
         }
 
         function handler02() {
-          location.replace('end.html');
+          location.replace('end(26).html');
         }
     },
 
