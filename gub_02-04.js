@@ -1,6 +1,6 @@
 var SVG = Snap('#my-svg');
 
-// 최상위 그룹
+// 최상위 그룹 
 var Paper = SVG.g();
 
 //이미지
