@@ -17,25 +17,21 @@ topBox.path('M1 40 L359 40 L359 0 Q358 1 358 1 L1 1').attr({
   'fill': 'Wheat'
 });
 
-topBox.rect(11, 6, 32, 28).click(handler01).attr({
+topBox.rect(11, 6, 32, 28).attr({
   'fill': 'Wheat',
   'cursor': 'pointer'
 });
 
 for (var i = 0; i < 3; i++) {
-  topBox.line(15, 13 + (i * 8), 40, 13 + (i * 8)).click(handler01).attr({
+  topBox.line(15, 13 + (i * 8), 40, 13 + (i * 8)).attr({
     'stroke': 'black',
     'cursor': 'pointer'
   });
 }
 
-topBox.text(290, 27, '라등급').attr({
+topBox.text(280, 27, '라01~05').attr({
   'font-size': 18
 });
-
-function handler01() {
-  location.replace('gub_01.html');
-}
 
 // 상단
 var hanjaArea = Paper.g();
