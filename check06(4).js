@@ -342,7 +342,7 @@ setTimeout(function() {
     });
 
     function handler01() {
-        location.replace('check(6).html');
+        location.replace('check06(1).html');
     }
 
     function handler02() {
