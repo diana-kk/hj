@@ -4,7 +4,7 @@ var SVG = Snap('#my-svg');
 var Paper = SVG.g();
 
 //이미지
-var end = Paper.image('end.png', 0, 0, 250, 160).toDefs();
+var end = Paper.image('duducouple.png', 0, 0, 250, 160).toDefs();
 
 // SVG 외곽선
 Paper.rect(0, 0, 360, 640, 6).attr({
@@ -1404,7 +1404,7 @@ setTimeout(function() {
 }, 99000);
 
 setTimeout(function() {
-  end.use().transform('t60, 180').appendTo(Paper);
+  end.use().transform('t50, 180').appendTo(Paper);
   var redB = Paper.rect(36, 410, 120, 30).attr({
     'fill': '#f8371f',
     'rx': 8,
