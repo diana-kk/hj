@@ -195,16 +195,6 @@ hanjaChoices.text(285, 570, '輕').click(handler29).attr({
   'cursor': 'pointer'
 });
 
-
-// 핸들러 함수
-// function handler03() {
-//   location.replace('gub_01.html');
-// }
-//
-// function handler04() {
-//   location.replace('gub_03.html');
-// }
-
 function handler05() {
   var group = Paper.g();
   group.rect(50, 250, 255, 180, 5).attr({
