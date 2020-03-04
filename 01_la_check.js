@@ -4,7 +4,7 @@ var SVG = Snap('#my-svg');
 var Paper = SVG.g();
 
 //이미지
-var login = Paper.image('login.png', 0, 0, 30, 45).toDefs();
+var login = Paper.image('dudu01.png', 0, 0, 30, 45).toDefs();
 
 
 // SVG 외곽선
