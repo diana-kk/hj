@@ -32,7 +32,7 @@ for (var i = 0; i < 3; i++) {
   });
 }
 
-topBox.text(290, 27, '라등급').attr({
+topBox.text(280, 27, '라01~05').attr({
   'font-size': 18
 });
 
