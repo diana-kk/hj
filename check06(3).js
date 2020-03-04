@@ -1,4 +1,3 @@
-// 한능원 급수한자 8급 배정한자 표
 var SVG = Snap('#my-svg');
 
 // 최상위 그룹
@@ -30,7 +29,7 @@ for (var i = 0; i < 3; i++) {
   });
 }
 
-topBox.text(290, 27, '라등급').attr({
+topBox.text(280, 27, '라06~10').attr({
   'font-size': 18
 });
 
