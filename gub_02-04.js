@@ -127,56 +127,56 @@ setTimeout(function() {
 // 한자 깜빡이 카드
 var blinkArea = Paper.g();
 
-var t1 = blinkArea.text(180, 330, '未').attr({
+var t1 = blinkArea.text(180, 330, '頁').attr({
     'fill': 'none',
     'font-size': 200,
     'text-anchor': 'middle'
 });
-var tt1 = blinkArea.text(180, 500, '아닐 미').attr({
+var tt1 = blinkArea.text(180, 500, '머리 혈').attr({
     'fill': 'none',
     'font-size': 70,
     'text-anchor': 'middle'
 });
 
-var t2 = blinkArea.text(180, 330, '束').attr({
+var t2 = blinkArea.text(180, 330, '禾').attr({
     'fill': 'none',
     'font-size': 200,
     'text-anchor': 'middle'
 });
-var tt2 = blinkArea.text(180, 500, '묶을 속').attr({
+var tt2 = blinkArea.text(180, 500, '벼 화').attr({
     'fill': 'none',
     'font-size': 70,
     'text-anchor': 'middle'
 });
 
-var t3 = blinkArea.text(180, 330, '村').attr({
+var t3 = blinkArea.text(180, 330, '示').attr({
     'fill': 'none',
     'font-size': 200,
     'text-anchor': 'middle'
 });
-var tt3 = blinkArea.text(180, 500, '마디 촌').attr({
+var tt3 = blinkArea.text(180, 500, '보일 시').attr({
     'fill': 'none',
     'font-size': 70,
     'text-anchor': 'middle'
 });
 
-var t4 = blinkArea.text(180, 330, '業').attr({
+var t4 = blinkArea.text(180, 330, '弓').attr({
     'fill': 'none',
     'font-size': 200,
     'text-anchor': 'middle'
 });
-var tt4 = blinkArea.text(180, 500, '일 업').attr({
+var tt4 = blinkArea.text(180, 500, '활 궁').attr({
     'fill': 'none',
     'font-size': 70,
     'text-anchor': 'middle'
 });
 
-var t5 = blinkArea.text(180, 330, '校').attr({
+var t5 = blinkArea.text(180, 330, '貝').attr({
     'fill': 'none',
     'font-size': 200,
     'text-anchor': 'middle'
 });
-var tt5 = blinkArea.text(180, 500, '학교 교').attr({
+var tt5 = blinkArea.text(180, 500, '조개 패').attr({
     'fill': 'none',
     'font-size': 70,
     'text-anchor': 'middle'
@@ -336,7 +336,7 @@ setTimeout(function() {
         'rx': 8,
         'ry': 8
     });
-    var orangeBT = Paper.text(250, 430, '퀴즈').click(handler02).attr({
+    var orangeBT = Paper.text(250, 430, '게임').click(handler02).attr({
         'fill': 'white',
         'font-size': 13
     });
