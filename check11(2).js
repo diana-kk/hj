@@ -31,7 +31,7 @@ for (var i = 0; i < 3; i++) {
   });
 }
 
-topBox.text(290, 27, '라등급').attr({
+topBox.text(285, 27, '라11~15').attr({
   'font-size': 18
 });
 
