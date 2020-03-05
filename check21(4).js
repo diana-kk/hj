@@ -15,7 +15,7 @@ Paper.rect(0, 0, 360, 640, 6).attr({
 // 상단 바 부분
 var topBox = Paper.g();
 
-topBox.path('M1 40 L359 40 L359 0 Q358 1 358 1 L1 1').click(handler00).attr({
+topBox.path('M1 40 L359 40 L359 0 Q358 1 358 1 L1 1').attr({
   'fill': 'Wheat'
 });
 
@@ -25,7 +25,7 @@ topBox.rect(11, 6, 32, 28).click(handler00).attr({
 });
 
 for (var i = 0; i < 3; i++) {
-  topBox.line(15, 13 + (i * 8), 40, 13 + (i * 8)).attr({
+  topBox.line(15, 13 + (i * 8), 40, 13 + (i * 8)).click(handler00).attr({
     'stroke': 'black',
     'cursor': 'pointer'
   });
