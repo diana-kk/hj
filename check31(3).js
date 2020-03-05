@@ -3,7 +3,6 @@ var SVG = Snap('#my-svg');
 // 최상위 그룹
 var Paper = SVG.g();
 
-
 // SVG 외곽선
 Paper.rect(0, 0, 360, 640, 6).attr({
   'stroke': 'gray',
