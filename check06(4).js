@@ -634,7 +634,7 @@ var t17 = blinkArea.text(180, 330, '令').attr({
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt17 = blinkArea.text(180, 500, '하여금 령').attr({
+var tt17 = blinkArea.text(180, 500, '명령할 령').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
