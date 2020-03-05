@@ -473,7 +473,7 @@ function handler21() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '하여금 령').attr({
+  group.text(180, 350, '명령할 령').attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
