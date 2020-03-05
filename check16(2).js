@@ -4,7 +4,6 @@ var SVG = Snap('#my-svg');
 var Paper = SVG.g();
 
 //이미지
-
 var oji = Paper.image('duduteacher.png', 0, 0, 130, 160).toDefs();
 
 // SVG 외곽선
