@@ -3,7 +3,6 @@ var SVG = Snap('#my-svg');
 // 최상위 그룹
 var Paper = SVG.g();
 
-
 // SVG 외곽선
 Paper.rect(0, 0, 360, 640, 6).attr({
   'stroke': 'gray',
@@ -29,7 +28,7 @@ for (var i = 0; i < 3; i++) {
   });
 }
 
-topBox.text(290, 27, '라등급').attr({
+topBox.text(283, 27, '라16~20').attr({
   'font-size': 18
 });
 
