@@ -6,7 +6,6 @@ var Paper = SVG.g();
 //이미지
 var login = Paper.image('dudu01.png', 0, 0, 30, 45).toDefs();
 
-
 // SVG 외곽선
 Paper.rect(0, 0, 360, 640, 6).attr({
   'stroke': 'gray',
@@ -388,7 +387,7 @@ function handler16() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '인할 일').attr({
+  group.text(180, 350, '인할 인').attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
