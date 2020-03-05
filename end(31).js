@@ -4,8 +4,7 @@ var SVG = Snap('#my-svg');
 var Paper = SVG.g();
 
 //이미지
-var fireworks07 = Paper.image('fireworks07.png', 0, 0, 260, 200).toDefs();
-
+var finish07 = Paper.image('finish07.png', 0, 0, 200, 230).toDefs();
 
 // SVG 외곽선
 Paper.rect(0, 0, 360, 640, 6).attr({
@@ -17,7 +16,7 @@ Paper.text(35, 160, '이번 주 학습을 마칩니다!').attr({
   'font-size': 30
 });
 
-fireworks07.use().transform('t50, 190').appendTo(Paper);
+finish07.use().transform('t75, 175').appendTo(Paper);
 
 var orangeB = Paper.rect(120, 410, 120, 30).attr({
   'fill': '#fe9b00',
