@@ -32,10 +32,10 @@ for (var i = 0; i < 3; i++) {
 }
 
 function handler00() {
-  location.replace('check06(1).html');
+  location.replace('check11(1).html');
 }
 
-topBox.text(280, 27, '라06~10').attr({
+topBox.text(285, 27, '라11~15').attr({
   'font-size': 18
 });
 
@@ -453,276 +453,276 @@ setTimeout(function() {
 // 한자 깜빡이 카드
 var blinkArea = Paper.g();
 
-var t1 = blinkArea.text(180, 330, '員').attr({
+var t1 = blinkArea.text(180, 330, '和').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt1 = blinkArea.text(180, 500, '관원 원').attr({
+var tt1 = blinkArea.text(180, 500, '화목할 화').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t2 = blinkArea.text(180, 330, '唱').attr({
+var t2 = blinkArea.text(180, 330, '命').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt2 = blinkArea.text(180, 500, '부를 창').attr({
+var tt2 = blinkArea.text(180, 500, '목숨 명').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t3 = blinkArea.text(180, 330, '單').attr({
+var t3 = blinkArea.text(180, 330, '味').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt3 = blinkArea.text(180, 500, '홑 단').attr({
+var tt3 = blinkArea.text(180, 500, '맛 미').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t4 = blinkArea.text(180, 330, '喜').attr({
+var t4 = blinkArea.text(180, 330, '周').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt4 = blinkArea.text(180, 500, '기쁠 희').attr({
+var tt4 = blinkArea.text(180, 500, '두루 주').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t5 = blinkArea.text(180, 330, '善').attr({
+var t5 = blinkArea.text(180, 330, '各').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt5 = blinkArea.text(180, 500, '착할 선').attr({
+var tt5 = blinkArea.text(180, 500, '각각 각').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t6 = blinkArea.text(180, 330, '失').attr({
+var t6 = blinkArea.text(180, 330, '志').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt6 = blinkArea.text(180, 500, '잃을 실').attr({
+var tt6 = blinkArea.text(180, 500, '뜻 지').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t7 = blinkArea.text(180, 330, '寺').attr({
+var t7 = blinkArea.text(180, 330, '忠').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt7 = blinkArea.text(180, 500, '절 사').attr({
+var tt7 = blinkArea.text(180, 500, '충성 충').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t8 = blinkArea.text(180, 330, '對').attr({
+var t8 = blinkArea.text(180, 330, '患').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt8 = blinkArea.text(180, 500, '대할 대').attr({
+var tt8 = blinkArea.text(180, 500, '근심 환').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t9 = blinkArea.text(180, 330, '有').attr({
+var t9 = blinkArea.text(180, 330, '感').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt9 = blinkArea.text(180, 500, '있을 유').attr({
+var tt9 = blinkArea.text(180, 500, '느낄 감').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t10 = blinkArea.text(180, 330, '守').attr({
+var t10 = blinkArea.text(180, 330, '惡').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt10 = blinkArea.text(180, 500, '지킬 수').attr({
+var tt10 = blinkArea.text(180, 500, '나쁠 악').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t11 = blinkArea.text(180, 330, '財').attr({
+var t11 = blinkArea.text(180, 330, '擧').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt11 = blinkArea.text(180, 500, '재물 재').attr({
+var tt11 = blinkArea.text(180, 500, '들 거').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t12 = blinkArea.text(180, 330, '貧').attr({
+var t12 = blinkArea.text(180, 330, '打').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt12 = blinkArea.text(180, 500, '가난할 빈').attr({
+var tt12 = blinkArea.text(180, 500, '칠 타').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t13 = blinkArea.text(180, 330, '貨').attr({
+var t13 = blinkArea.text(180, 330, '折').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt13 = blinkArea.text(180, 500, '재화 화').attr({
+var tt13 = blinkArea.text(180, 500, '꺾을 절').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t14 = blinkArea.text(180, 330, '買').attr({
+var t14 = blinkArea.text(180, 330, '扶').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt14 = blinkArea.text(180, 500, '살 매').attr({
+var tt14 = blinkArea.text(180, 500, '도울 부').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t15 = blinkArea.text(180, 330, '賣').attr({
+var t15 = blinkArea.text(180, 330, '接').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt15 = blinkArea.text(180, 500, '팔 매').attr({
+var tt15 = blinkArea.text(180, 500, '접할 접').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t16 = blinkArea.text(180, 330, '今').attr({
+var t16 = blinkArea.text(180, 330, '路').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt16 = blinkArea.text(180, 500, '이제 금').attr({
+var tt16 = blinkArea.text(180, 500, '길 로').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t17 = blinkArea.text(180, 330, '令').attr({
+var t17 = blinkArea.text(180, 330, '登').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt17 = blinkArea.text(180, 500, '하여금 령').attr({
+var tt17 = blinkArea.text(180, 500, '오를 등').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t18 = blinkArea.text(180, 330, '任').attr({
+var t18 = blinkArea.text(180, 330, '發').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt18 = blinkArea.text(180, 500, '맡길 임').attr({
+var tt18 = blinkArea.text(180, 500, '쏠 발').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t19 = blinkArea.text(180, 330, '件').attr({
+var t19 = blinkArea.text(180, 330, '建').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt19 = blinkArea.text(180, 500, '물건 건').attr({
+var tt19 = blinkArea.text(180, 500, '세울 건').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t20 = blinkArea.text(180, 330, '偉').attr({
+var t20 = blinkArea.text(180, 330, '起').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt20 = blinkArea.text(180, 500, '훌륭할 위').attr({
+var tt20 = blinkArea.text(180, 500, '일어날 기').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t21 = blinkArea.text(180, 330, '期').attr({
+var t21 = blinkArea.text(180, 330, '改').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt21 = blinkArea.text(180, 500, '기약할 기').attr({
+var tt21 = blinkArea.text(180, 500, '고칠 개').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t22 = blinkArea.text(180, 330, '形').attr({
+var t22 = blinkArea.text(180, 330, '放').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt22 = blinkArea.text(180, 500, '형상 형').attr({
+var tt22 = blinkArea.text(180, 500, '놓을 방').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t23 = blinkArea.text(180, 330, '葉').attr({
+var t23 = blinkArea.text(180, 330, '政').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt23 = blinkArea.text(180, 500, '잎 엽').attr({
+var tt23 = blinkArea.text(180, 500, '정사 정').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t24 = blinkArea.text(180, 330, '軍').attr({
+var t24 = blinkArea.text(180, 330, '敎').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt24 = blinkArea.text(180, 500, '군사 군').attr({
+var tt24 = blinkArea.text(180, 500, '가르칠 교').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t25 = blinkArea.text(180, 330, '輕').attr({
+var t25 = blinkArea.text(180, 330, '數').attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt25 = blinkArea.text(180, 500, '가벼울 경').attr({
+var tt25 = blinkArea.text(180, 500, '셀 수').attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
@@ -1431,10 +1431,10 @@ setTimeout(function() {
   });
 
   function handler01() {
-    location.replace('check06(1).html');
+    location.replace('check11(1).html');
   }
 
   function handler02() {
-    location.replace('03_la_game06.html');
+    location.replace('04_la_game11.html');
   }
 }, 100000);
