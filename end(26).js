@@ -14,7 +14,7 @@ Paper.rect(0, 0, 360, 640, 6).attr({
 
 Paper.text(35, 160, '이번 주 학습을 마칩니다!').attr({
   'font-size': 30
-});
+}); 
 
 finish06.use().transform('t95, 193').appendTo(Paper);
 
