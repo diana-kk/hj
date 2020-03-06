@@ -201,7 +201,7 @@ function handler05() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '화목할 화').attr({
+  group.text(180, 350, data[50].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -218,7 +218,7 @@ function handler06() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '목숨 명').attr({
+  group.text(180, 350, data[51].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -235,7 +235,7 @@ function handler07() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '맛 미').attr({
+  group.text(180, 350, data[52].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -252,7 +252,7 @@ function handler08() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '두루 주').attr({
+  group.text(180, 350, data[53].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -269,7 +269,7 @@ function handler09() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '각각 각').attr({
+  group.text(180, 350, data[54].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -286,7 +286,7 @@ function handler10() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '뜻 지').attr({
+  group.text(180, 350, data[55].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -303,7 +303,7 @@ function handler11() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '충성 충').attr({
+  group.text(180, 350, data[56].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -320,7 +320,7 @@ function handler12() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '근심 환').attr({
+  group.text(180, 350, data[57].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -337,7 +337,7 @@ function handler13() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '느낄 감').attr({
+  group.text(180, 350, data[58].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -354,7 +354,7 @@ function handler14() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '나쁠 악').attr({
+  group.text(180, 350, data[59].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -371,7 +371,7 @@ function handler15() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '들 거').attr({
+  group.text(180, 350, data[60].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -388,7 +388,7 @@ function handler16() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '칠 타').attr({
+  group.text(180, 350, data[61].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -405,7 +405,7 @@ function handler17() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '꺾을 절').attr({
+  group.text(180, 350, data[62].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -422,7 +422,7 @@ function handler18() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '도울 부').attr({
+  group.text(180, 350, data[63].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -439,7 +439,7 @@ function handler19() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '접할 접').attr({
+  group.text(180, 350, data[64].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -456,7 +456,7 @@ function handler20() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '길 로').attr({
+  group.text(180, 350, data[65].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -473,7 +473,7 @@ function handler21() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '오를 등').attr({
+  group.text(180, 350, data[66].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -490,7 +490,7 @@ function handler22() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '쏠 발').attr({
+  group.text(180, 350, data[67].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -507,7 +507,7 @@ function handler23() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '세울 건').attr({
+  group.text(180, 350, data[68].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -524,7 +524,7 @@ function handler24() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '일어날 기').attr({
+  group.text(180, 350, data[69].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -542,7 +542,7 @@ function handler25() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '고칠 개').attr({
+  group.text(180, 350, data[70].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -559,7 +559,7 @@ function handler26() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '놓을 방').attr({
+  group.text(180, 350, data[71].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -576,7 +576,7 @@ function handler27() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '정사 정').attr({
+  group.text(180, 350, data[72].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -593,7 +593,7 @@ function handler28() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '가르칠 교').attr({
+  group.text(180, 350, data[73].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -610,7 +610,7 @@ function handler29() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '셀 수').attr({
+  group.text(180, 350, data[74].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
