@@ -70,127 +70,127 @@ for (var i = 0; i < 5; i++) {
 
 var hanjaChoices = Paper.g();
 
-hanjaChoices.text(45, 170, '和').click(handler05).attr({
+hanjaChoices.text(45, 170, data[50].hanja).click(handler05).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(105, 170, '命').click(handler06).attr({
+hanjaChoices.text(105, 170, data[51].hanja).click(handler06).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(165, 170, '味').click(handler07).attr({
+hanjaChoices.text(165, 170, data[52].hanja).click(handler07).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(225, 170, '周').click(handler08).attr({
+hanjaChoices.text(225, 170, data[53].hanja).click(handler08).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(285, 170, '各').click(handler09).attr({
+hanjaChoices.text(285, 170, data[54].hanja).click(handler09).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(45, 270, '志').click(handler10).attr({
+hanjaChoices.text(45, 270, data[55].hanja).click(handler10).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(105, 270, '忠').click(handler11).attr({
+hanjaChoices.text(105, 270, data[56].hanja).click(handler11).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(165, 270, '患').click(handler12).attr({
+hanjaChoices.text(165, 270, data[57].hanja).click(handler12).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(225, 270, '感').click(handler13).attr({
+hanjaChoices.text(225, 270, data[58].hanja).click(handler13).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(285, 270, '惡').click(handler14).attr({
+hanjaChoices.text(285, 270, data[59].hanja).click(handler14).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(45, 370, '擧').click(handler15).attr({
+hanjaChoices.text(45, 370, data[60].hanja).click(handler15).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(105, 370, '打').click(handler16).attr({
+hanjaChoices.text(105, 370, data[61].hanja).click(handler16).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(165, 370, '折').click(handler17).attr({
+hanjaChoices.text(165, 370, data[62].hanja).click(handler17).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(225, 370, '扶').click(handler18).attr({
+hanjaChoices.text(225, 370, data[63].hanja).click(handler18).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(285, 370, '接').click(handler19).attr({
+hanjaChoices.text(285, 370, data[64].hanja).click(handler19).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(45, 470, '路').click(handler20).attr({
+hanjaChoices.text(45, 470, data[65].hanja).click(handler20).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(105, 470, '登').click(handler21).attr({
+hanjaChoices.text(105, 470, data[66].hanja).click(handler21).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(165, 470, '發').click(handler22).attr({
+hanjaChoices.text(165, 470, data[67].hanja).click(handler22).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(225, 470, '建').click(handler23).attr({
+hanjaChoices.text(225, 470, data[68].hanja).click(handler23).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(285, 470, '起').click(handler24).attr({
+hanjaChoices.text(285, 470, data[69].hanja).click(handler24).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(45, 570, '改').click(handler25).attr({
+hanjaChoices.text(45, 570, data[70].hanja).click(handler25).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(105, 570, '放').click(handler26).attr({
+hanjaChoices.text(105, 570, data[71].hanja).click(handler26).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(165, 570, '政').click(handler27).attr({
+hanjaChoices.text(165, 570, data[72].hanja).click(handler27).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(225, 570, '敎').click(handler28).attr({
+hanjaChoices.text(225, 570, data[73].hanja).click(handler28).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(285, 570, '數').click(handler29).attr({
+hanjaChoices.text(285, 570, data[74].hanja).click(handler29).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
