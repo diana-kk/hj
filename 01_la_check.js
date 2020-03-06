@@ -197,14 +197,6 @@ hanjaChoices.text(285, 570, data[24].hanja).click(handler29).attr({
 
 
 // 핸들러 함수
-function handler03() {
-  location.replace('gub_01.html');
-}
-
-function handler04() {
-  location.replace('gub_03.html');
-}
-
 function handler05() {
   var group = Paper.g();
   group.rect(50, 250, 255, 180, 5).attr({
