@@ -453,276 +453,276 @@ setTimeout(function() {
 // 한자 깜빡이 카드
 var blinkArea = Paper.g();
 
-var t1 = blinkArea.text(180, 330, '近').attr({
+var t1 = blinkArea.text(180, 330, data[75].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt1 = blinkArea.text(180, 500, '가까울 근').attr({
+var tt1 = blinkArea.text(180, 500, data[75].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t2 = blinkArea.text(180, 330, '過').attr({
+var t2 = blinkArea.text(180, 330, data[76].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt2 = blinkArea.text(180, 500, '지날 과').attr({
+var tt2 = blinkArea.text(180, 500, data[76].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t3 = blinkArea.text(180, 330, '道').attr({
+var t3 = blinkArea.text(180, 330, data[77].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt3 = blinkArea.text(180, 500, '길 도').attr({
+var tt3 = blinkArea.text(180, 500, data[77].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t4 = blinkArea.text(180, 330, '運').attr({
+var t4 = blinkArea.text(180, 330, data[78].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt4 = blinkArea.text(180, 500, '움직일 운').attr({
+var tt4 = blinkArea.text(180, 500, data[78].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t5 = blinkArea.text(180, 330, '遠').attr({
+var t5 = blinkArea.text(180, 330, data[79].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt5 = blinkArea.text(180, 500, '멀 원').attr({
+var tt5 = blinkArea.text(180, 500, data[79].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t6 = blinkArea.text(180, 330, '兒').attr({
+var t6 = blinkArea.text(180, 330, data[80].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt6 = blinkArea.text(180, 500, '아이 아').attr({
+var tt6 = blinkArea.text(180, 500, data[80].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t7 = blinkArea.text(180, 330, '元').attr({
+var t7 = blinkArea.text(180, 330, data[81].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt7 = blinkArea.text(180, 500, '으뜸 원').attr({
+var tt7 = blinkArea.text(180, 500, data[81].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t8 = blinkArea.text(180, 330, '親').attr({
+var t8 = blinkArea.text(180, 330, data[82].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt8 = blinkArea.text(180, 500, '친할 친').attr({
+var tt8 = blinkArea.text(180, 500, data[82].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t9 = blinkArea.text(180, 330, '觀').attr({
+var t9 = blinkArea.text(180, 330, data[83].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt9 = blinkArea.text(180, 500, '볼 관').attr({
+var tt9 = blinkArea.text(180, 500, data[83].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t10 = blinkArea.text(180, 330, '視').attr({
+var t10 = blinkArea.text(180, 330, data[84].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt10 = blinkArea.text(180, 500, '볼 시').attr({
+var tt10 = blinkArea.text(180, 500, data[84].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t11 = blinkArea.text(180, 330, '客').attr({
+var t11 = blinkArea.text(180, 330, data[85].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt11 = blinkArea.text(180, 500, '손 객').attr({
+var tt11 = blinkArea.text(180, 500, data[85].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t12 = blinkArea.text(180, 330, '害').attr({
+var t12 = blinkArea.text(180, 330, data[86].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt12 = blinkArea.text(180, 500, '해칠 해').attr({
+var tt12 = blinkArea.text(180, 500, data[86].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t13 = blinkArea.text(180, 330, '富').attr({
+var t13 = blinkArea.text(180, 330, data[87].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt13 = blinkArea.text(180, 500, '부자 부').attr({
+var tt13 = blinkArea.text(180, 500, data[87].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t14 = blinkArea.text(180, 330, '寶').attr({
+var t14 = blinkArea.text(180, 330, data[88].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt14 = blinkArea.text(180, 500, '보배 보').attr({
+var tt14 = blinkArea.text(180, 500, data[88].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t15 = blinkArea.text(180, 330, '宅').attr({
+var t15 = blinkArea.text(180, 330, data[89].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt15 = blinkArea.text(180, 500, '집 택').attr({
+var tt15 = blinkArea.text(180, 500, data[89].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t16 = blinkArea.text(180, 330, '約').attr({
+var t16 = blinkArea.text(180, 330, data[90].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt16 = blinkArea.text(180, 500, '약속할 약').attr({
+var tt16 = blinkArea.text(180, 500, data[90].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t17 = blinkArea.text(180, 330, '紙').attr({
+var t17 = blinkArea.text(180, 330, data[91].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt17 = blinkArea.text(180, 500, '종이 지').attr({
+var tt17 = blinkArea.text(180, 500, data[91].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t18 = blinkArea.text(180, 330, '組').attr({
+var t18 = blinkArea.text(180, 330, data[92].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt18 = blinkArea.text(180, 500, '짤 조').attr({
+var tt18 = blinkArea.text(180, 500, data[92].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t19 = blinkArea.text(180, 330, '結').attr({
+var t19 = blinkArea.text(180, 330, data[93].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt19 = blinkArea.text(180, 500, '맺을 결').attr({
+var tt19 = blinkArea.text(180, 500, data[93].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t20 = blinkArea.text(180, 330, '線').attr({
+var t20 = blinkArea.text(180, 330, data[94].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt20 = blinkArea.text(180, 500, '줄 선').attr({
+var tt20 = blinkArea.text(180, 500, data[94].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t21 = blinkArea.text(180, 330, '引').attr({
+var t21 = blinkArea.text(180, 330, data[95].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt21 = blinkArea.text(180, 500, '끌 인').attr({
+var tt21 = blinkArea.text(180, 500, data[95].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t22 = blinkArea.text(180, 330, '弱').attr({
+var t22 = blinkArea.text(180, 330, data[96].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt22 = blinkArea.text(180, 500, '약할 약').attr({
+var tt22 = blinkArea.text(180, 500, data[96].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t23 = blinkArea.text(180, 330, '强').attr({
+var t23 = blinkArea.text(180, 330, data[97].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt23 = blinkArea.text(180, 500, '굳셀 강').attr({
+var tt23 = blinkArea.text(180, 500, data[97].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t24 = blinkArea.text(180, 330, '張').attr({
+var t24 = blinkArea.text(180, 330, data[98].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt24 = blinkArea.text(180, 500, '베풀 장').attr({
+var tt24 = blinkArea.text(180, 500, data[98].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
 });
 
-var t25 = blinkArea.text(180, 330, '弟').attr({
+var t25 = blinkArea.text(180, 330, data[99].hanja).attr({
   'fill': 'none',
   'font-size': 200,
   'text-anchor': 'middle'
 });
-var tt25 = blinkArea.text(180, 500, '아우 제').attr({
+var tt25 = blinkArea.text(180, 500, data[99].mean).attr({
   'fill': 'none',
   'font-size': 70,
   'text-anchor': 'middle'
