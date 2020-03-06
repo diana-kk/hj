@@ -36,6 +36,7 @@ topBox.text(290, 27, '라등급').attr({
   'font-size': 18
 });
 
+
 // 상단
 var topArea = Paper.g();
 login.use().transform('t30, 55').appendTo(topArea);
@@ -69,127 +70,127 @@ for (var i = 0; i < 5; i++) {
 
 var hanjaChoices = Paper.g();
 
-hanjaChoices.text(45, 170, '頁').click(handler05).attr({
+hanjaChoices.text(45, 170, data[0].hanja).click(handler05).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(105, 170, '禾').click(handler06).attr({
+hanjaChoices.text(105, 170, data[1].hanja).click(handler06).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(165, 170, '示').click(handler07).attr({
+hanjaChoices.text(165, 170, data[2].hanja).click(handler07).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(225, 170, '弓').click(handler08).attr({
+hanjaChoices.text(225, 170, data[3].hanja).click(handler08).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(285, 170, '貝').click(handler09).attr({
+hanjaChoices.text(285, 170, data[4].hanja).click(handler09).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(45, 270, '未').click(handler10).attr({
+hanjaChoices.text(45, 270, data[5].hanja).click(handler10).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(105, 270, '束').click(handler11).attr({
+hanjaChoices.text(105, 270, data[6].hanja).click(handler11).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(165, 270, '村').click(handler12).attr({
+hanjaChoices.text(165, 270, data[7].hanja).click(handler12).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(225, 270, '業').click(handler13).attr({
+hanjaChoices.text(225, 270, data[8].hanja).click(handler13).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(285, 270, '校').click(handler14).attr({
+hanjaChoices.text(285, 270, data[9].hanja).click(handler14).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(45, 370, '仁').click(handler15).attr({
+hanjaChoices.text(45, 370, data[10].hanja).click(handler15).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(105, 370, '仙').click(handler16).attr({
+hanjaChoices.text(105, 370, data[11].hanja).click(handler16).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(165, 370, '信').click(handler17).attr({
+hanjaChoices.text(165, 370, data[12].hanja).click(handler17).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(225, 370, '伐').click(handler18).attr({
+hanjaChoices.text(225, 370, data[13].hanja).click(handler18).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(285, 370, '住').click(handler19).attr({
+hanjaChoices.text(285, 370, data[14].hanja).click(handler19).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(45, 470, '否').click(handler20).attr({
+hanjaChoices.text(45, 470, data[15].hanja).click(handler20).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(105, 470, '君').click(handler21).attr({
+hanjaChoices.text(105, 470, data[16].hanja).click(handler21).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(165, 470, '句').click(handler22).attr({
+hanjaChoices.text(165, 470, data[17].hanja).click(handler22).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(225, 470, '同').click(handler23).attr({
+hanjaChoices.text(225, 470, data[18].hanja).click(handler23).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(285, 470, '器').click(handler24).attr({
+hanjaChoices.text(285, 470, data[19].hanja).click(handler24).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(45, 570, '共').click(handler25).attr({
+hanjaChoices.text(45, 570, data[20].hanja).click(handler25).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(105, 570, '兵').click(handler26).attr({
+hanjaChoices.text(105, 570, data[21].hanja).click(handler26).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(165, 570, '具').click(handler27).attr({
+hanjaChoices.text(165, 570, data[22].hanja).click(handler27).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(225, 570, '兼').click(handler28).attr({
+hanjaChoices.text(225, 570, data[23].hanja).click(handler28).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
 
-hanjaChoices.text(285, 570, '公').click(handler29).attr({
+hanjaChoices.text(285, 570, data[24].hanja).click(handler29).attr({
   'font-size': 32,
   'cursor': 'pointer'
 });
@@ -210,7 +211,7 @@ function handler05() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '머리 혈').attr({
+  group.text(180, 350, data[0].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -227,7 +228,7 @@ function handler06() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '벼 화').attr({
+  group.text(180, 350, data[1].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -244,7 +245,7 @@ function handler07() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '보일 시').attr({
+  group.text(180, 350, data[2].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -261,7 +262,7 @@ function handler08() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '활 궁').attr({
+  group.text(180, 350, data[3].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -278,7 +279,7 @@ function handler09() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '조개 패').attr({
+  group.text(180, 350, data[4].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -295,7 +296,7 @@ function handler10() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '아닐 미').attr({
+  group.text(180, 350, data[5].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -312,7 +313,7 @@ function handler11() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '묶을 속').attr({
+  group.text(180, 350, data[6].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -329,7 +330,7 @@ function handler12() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '마을 촌').attr({
+  group.text(180, 350, data[7].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -346,7 +347,7 @@ function handler13() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '일 업').attr({
+  group.text(180, 350, data[8].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -363,7 +364,7 @@ function handler14() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '학교 교').attr({
+  group.text(180, 350, data[9].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -380,7 +381,7 @@ function handler15() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '어질 인').attr({
+  group.text(180, 350, data[10].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -397,7 +398,7 @@ function handler16() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '신선 선').attr({
+  group.text(180, 350, data[11].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -414,7 +415,7 @@ function handler17() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '믿을 신').attr({
+  group.text(180, 350, data[12].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -431,7 +432,7 @@ function handler18() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '칠 벌').attr({
+  group.text(180, 350, data[13].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -448,7 +449,7 @@ function handler19() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '머무를 주').attr({
+  group.text(180, 350, data[14].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -465,7 +466,7 @@ function handler20() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '아닐 부').attr({
+  group.text(180, 350, data[15].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -482,7 +483,7 @@ function handler21() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '임금 군').attr({
+  group.text(180, 350, data[16].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -499,7 +500,7 @@ function handler22() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '글귀 구').attr({
+  group.text(180, 350, data[17].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -516,7 +517,7 @@ function handler23() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '한가지 동').attr({
+  group.text(180, 350, data[18].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -533,7 +534,7 @@ function handler24() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '그릇 기').attr({
+  group.text(180, 350, data[19].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -551,7 +552,7 @@ function handler25() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '함께 공').attr({
+  group.text(180, 350, data[20].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -568,7 +569,7 @@ function handler26() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '병사 병').attr({
+  group.text(180, 350, data[21].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -585,7 +586,7 @@ function handler27() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '갖출 구').attr({
+  group.text(180, 350, data[22].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -602,7 +603,7 @@ function handler28() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '겸할 겸').attr({
+  group.text(180, 350, data[23].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
@@ -619,7 +620,7 @@ function handler29() {
     'fill': '#ffc5d0',
     'opacity': 0.9
   });
-  group.text(180, 350, '공정할 공').attr({
+  group.text(180, 350, data[24].mean).attr({
     'fill': 'black',
     'font-size': 50,
     'text-anchor': 'middle'
